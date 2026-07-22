@@ -23,6 +23,7 @@ The strategy uses two Simple Moving Averages (SMA):
 
 * **Fast Moving Average:** 20 periods
 * **Slow Moving Average:** 50 periods
+* I used those periods as they performed better compared to others
 
 ### Entry
 
