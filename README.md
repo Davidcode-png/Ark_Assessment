@@ -18,7 +18,7 @@ In addition to the backtest, the project includes:
 ---
 
 ## Strategy
-[Helpful resource here](https://volity.io/forex/golden-cross-vs-death-cross/)
+[I found this resource helpful](https://volity.io/forex/golden-cross-vs-death-cross/)
 The strategy uses two Simple Moving Averages (SMA):
 
 * **Fast Moving Average:** 20 periods
